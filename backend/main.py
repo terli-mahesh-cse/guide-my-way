@@ -15,6 +15,7 @@ frontend_url = os.getenv("FRONTEND_URL", "*")
 origins = [frontend_url] if frontend_url != "*" else ["*"]
 if frontend_url != "*":
     origins.extend([
+        "https://funny-duckanoo-35ed69.netlify.app",
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:5174",
