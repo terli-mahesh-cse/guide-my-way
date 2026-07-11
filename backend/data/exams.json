@@ -1,0 +1,162 @@
+[
+  {
+    "id": "jee_main",
+    "examName": "JEE Main (Joint Entrance Examination)",
+    "conductedBy": "National Testing Agency (NTA)",
+    "forWhom": "Admission to B.Tech/B.Arch at NITs, IIITs, CFTIs, and eligibility for JEE Advanced",
+    "month": "January & April",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "jee_advanced",
+    "examName": "JEE Advanced",
+    "conductedBy": "One of the seven zonal IITs (under JAB)",
+    "forWhom": "Admission to B.Tech/B.S/Integrated programs at all 23 IITs",
+    "month": "May",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "neet_ug",
+    "examName": "NEET UG (National Eligibility cum Entrance Test)",
+    "conductedBy": "National Testing Agency (NTA)",
+    "forWhom": "Admission to MBBS, BDS, Ayush courses, and Veterinary seats in India",
+    "month": "May",
+    "mode": "Pen & Paper (OMR Sheet)"
+  },
+  {
+    "id": "eamcet",
+    "examName": "EAMCET / EAPCET",
+    "conductedBy": "State Higher Education Councils (AP/Telangana)",
+    "forWhom": "Admission to State Engineering, Agriculture, and Pharmacy colleges",
+    "month": "May",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "bitsat",
+    "examName": "BITSAT",
+    "conductedBy": "BITS Pilani",
+    "forWhom": "Admission to Integrated First Degree (B.E, B.Pharm, M.Sc) at BITS Pilani, Goa, and Hyderabad campuses",
+    "month": "May & June",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "clat",
+    "examName": "CLAT (Common Law Admission Test)",
+    "conductedBy": "Consortium of National Law Universities (NLUs)",
+    "forWhom": "Admission to 5-year integrated Undergrad (BA LLB, BBA LLB) and PG (LLM) programs at 24 NLUs",
+    "month": "December",
+    "mode": "Pen & Paper (Offline)"
+  },
+  {
+    "id": "lsat_india",
+    "examName": "LSAT India",
+    "conductedBy": "Law School Admission Council (LSAC) / Pearson VUE",
+    "forWhom": "Admission to BA LLB, LLB, and LLM courses in participating private law colleges (Jindal Global, etc.)",
+    "month": "January & May",
+    "mode": "Online Proctored Test"
+  },
+  {
+    "id": "ipmat",
+    "examName": "IPMAT (Integrated Program in Management Aptitude Test)",
+    "conductedBy": "IIM Indore / IIM Rohtak",
+    "forWhom": "Admission to 5-year Integrated Program in Management (IPM) at IIM Indore, IIM Rohtak, Ranchi, and NALSAR",
+    "month": "May",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "nda",
+    "examName": "NDA (National Defence Academy Exam)",
+    "conductedBy": "Union Public Service Commission (UPSC)",
+    "forWhom": "Admission to Army, Navy, and Air Force wings of National Defence Academy and Naval Academy course",
+    "month": "April & September",
+    "mode": "Pen & Paper (Offline)"
+  },
+  {
+    "id": "cds",
+    "examName": "CDS (Combined Defence Services Exam)",
+    "conductedBy": "Union Public Service Commission (UPSC)",
+    "forWhom": "Admission to Indian Military Academy, Officers Training Academy, Indian Naval Academy, and Air Force Academy",
+    "month": "April & September",
+    "mode": "Pen & Paper (Offline)"
+  },
+  {
+    "id": "afcat",
+    "examName": "AFCAT (Air Force Common Admission Test)",
+    "conductedBy": "Indian Air Force (IAF)",
+    "forWhom": "Commissioning in Flying and Ground Duty (Technical and Non-Technical) branches of IAF",
+    "month": "February & August",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "ca_foundation",
+    "examName": "CA Foundation",
+    "conductedBy": "Institute of Chartered Accountants of India (ICAI)",
+    "forWhom": "Entry level examination for the Chartered Accountancy course in India",
+    "month": "June & December",
+    "mode": "Pen & Paper / Offline"
+  },
+  {
+    "id": "nift",
+    "examName": "NIFT Entrance Exam",
+    "conductedBy": "National Institute of Fashion Technology / NTA",
+    "forWhom": "Admission to B.Des, B.FTech, M.Des, M.F.M, and M.FTech at NIFT campuses",
+    "month": "February",
+    "mode": "Computer Based Test (CBT) + Creative Ability Test (Drawing)"
+  },
+  {
+    "id": "nid_dat",
+    "examName": "NID DAT (Design Aptitude Test)",
+    "conductedBy": "National Institute of Design (NID)",
+    "forWhom": "Admission to Bachelor of Design (B.Des) and Master of Design (M.Des) at NID campuses",
+    "month": "December (Prelims) & April (Mains)",
+    "mode": "Offline (Drawing and Studio Test)"
+  },
+  {
+    "id": "uceed",
+    "examName": "UCEED (Undergraduate Common Entrance Examination for Design)",
+    "conductedBy": "IIT Bombay",
+    "forWhom": "Admission to Bachelor of Design (B.Des) programs at IIT Bombay, IIT Delhi, IIT Guwahati, IIT Hyderabad, and IIITDM Jabalpur",
+    "month": "January",
+    "mode": "Computer Based (Part A) + Drawing Sheet (Part B)"
+  },
+  {
+    "id": "ceed",
+    "examName": "CEED (Common Entrance Examination for Design)",
+    "conductedBy": "IIT Bombay",
+    "forWhom": "Admission to Master of Design (M.Des) and Ph.D. programs in Design at IITs and IISc",
+    "month": "January",
+    "mode": "Computer Based (Part A) + Drawing Sheet (Part B)"
+  },
+  {
+    "id": "icar_aieea",
+    "examName": "ICAR AIEEA (UG)",
+    "conductedBy": "National Testing Agency (NTA)",
+    "forWhom": "Admission to Bachelor Degree programs in Agriculture and Allied Sciences in Agricultural Universities",
+    "month": "May",
+    "mode": "Computer Based Test (CBT)"
+  },
+  {
+    "id": "cuet",
+    "examName": "CUET UG (Common University Entrance Test)",
+    "conductedBy": "National Testing Agency (NTA)",
+    "forWhom": "Admission to Undergrad courses in all Central Universities (DU, BHU, JNU, etc.) and participating institutes",
+    "month": "May",
+    "mode": "Hybrid (CBT and Pen & Paper)"
+  },
+  {
+    "id": "ailet",
+    "examName": "AILET (All India Law Entrance Test)",
+    "conductedBy": "National Law University, Delhi",
+    "forWhom": "Admission to BA LLB (Hons), LLM, and Ph.D. programs at National Law University, Delhi only",
+    "month": "December",
+    "mode": "Pen & Paper (Offline)"
+  },
+  {
+    "id": "viteee",
+    "examName": "VITEEE",
+    "conductedBy": "VIT University",
+    "forWhom": "Admission to B.Tech programs at VIT Vellore, Chennai, Bhopal, and AP campuses",
+    "month": "April",
+    "mode": "Computer Based Test (CBT)"
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "disciplines": [
+    {
+      "id": "cricket",
+      "sport": "Cricket",
+      "academyPathway": "District Association Selection -> State Under-14/16/19/23 Trials -> Ranji Trophy / State Senior Team -> IPL Selection -> Indian National Cricket Team Selection"
+    },
+    {
+      "id": "football",
+      "sport": "Football",
+      "academyPathway": "Local Club Academy (AIFF Accredited) -> District/State Youth Leagues -> Santosh Trophy / State Team -> I-League / ISL Clubs -> Indian National Football Team"
+    },
+    {
+      "id": "hockey",
+      "sport": "Hockey",
+      "academyPathway": "School/Sub-Junior Nationals -> Hockey India Academy Selection -> Junior National Camp -> Hockey India League / State Team -> Senior Indian National Hockey Team"
+    },
+    {
+      "id": "athletics",
+      "sport": "Athletics (Track & Field)",
+      "academyPathway": "School Sports Meet -> District & State Athletic Meets -> National Junior/Senior Athletics Championship -> SAI Centre of Excellence Training -> National Camp -> Olympics / World Championships"
+    },
+    {
+      "id": "badminton",
+      "sport": "Badminton",
+      "academyPathway": "District Ranking Tournaments -> State Championships -> National Ranking Tournaments (BAI) -> Gopichand/Padukone Academy Selection -> National Camp -> International BWF Tournaments"
+    },
+    {
+      "id": "tennis",
+      "sport": "Tennis",
+      "academyPathway": "AITA Talent Series (TS) -> Championship Series (CS) -> National Series (NS) -> National Championships -> ITF Junior Circuit -> Davis Cup / Fed Cup / ATP & WTA Tours"
+    },
+    {
+      "id": "wrestling",
+      "sport": "Wrestling",
+      "academyPathway": "Traditional Akhadas / School Level -> Cadet Nationals -> Junior Nationals -> National Wrestling Championship -> SAI Special Training Centres -> Olympics / Commonwealth / World Championships"
+    },
+    {
+      "id": "boxing",
+      "sport": "Boxing",
+      "academyPathway": "District Level Tournaments -> State Youth/Senior Championships -> National Boxing Championships -> Army Sports Institute / SAI Elite Center Selection -> National Camp -> International Championships"
+    },
+    {
+      "id": "swimming",
+      "sport": "Swimming",
+      "academyPathway": "District Aquatic Meets -> State Swimming Championships -> Junior & Senior National Aquatic Championships -> Specialized Swim Academies (e.g., Dolphin Academy) -> International Swimming Meets"
+    },
+    {
+      "id": "shooting",
+      "sport": "Shooting (Rifle/Pistol/Shotgun)",
+      "academyPathway": "District Rifle Association Matches -> State Championships -> National Selection Trials (NRAI) -> National Shooting Championship -> Target Olympic Podium Scheme (TOPS) Support -> ISSF World Cups / Olympics"
+    },
+    {
+      "id": "gymnastics",
+      "sport": "Gymnastics",
+      "academyPathway": "District Gymnastics Meets -> State Championships -> National Gymnastics Championships -> National Camps -> International Cups & World Artistic Gymnastics Championships"
+    },
+    {
+      "id": "kabaddi",
+      "sport": "Kabaddi",
+      "academyPathway": "School Games Federation of India (SGFI) -> Sub-Junior/Junior Nationals -> State Senior Team Selection -> Pro Kabaddi League (PKL) Auction -> Indian National Kabaddi Team"
+    }
+  ],
+  "schemes": [
+    {
+      "id": "sports_quota",
+      "name": "Sports Quota",
+      "description": "Provides reservation of seats in premier universities (DU, etc.) and government jobs (Railways, Police, Income Tax, Defense Services) for athletes who have represented at national or international levels."
+    },
+    {
+      "id": "khelo_india",
+      "name": "Khelo India Scheme",
+      "description": "Identifies talented players in priority sports disciplines at various levels and provides an annual financial assistance of ₹5 Lakh per athlete for 8 years to support training, nutrition, and equipment."
+    },
+    {
+      "id": "sai",
+      "name": "Sports Authority of India (SAI) Schemes",
+      "description": "Operates training centers across the country (STC, SAG, NCOE) providing free residential boarding, world-class coaching, scientific support, sports kit, and competition exposure to talented youths."
+    },
+    {
+      "id": "tops",
+      "name": "Target Olympic Podium Scheme (TOPS)",
+      "description": "A flagship program of the Ministry of Youth Affairs and Sports to provide high-end, customized support (foreign coaching, international exposure, physiological testing, monthly stipend) to top elite athletes for winning Olympic medals."
+    },
+    {
+      "id": "state_scholarships",
+      "name": "State Sports Scholarships",
+      "description": "Various state governments provide direct cash rewards, monthly scholarships, and training grants for state level medallists and upcoming athletes representing the respective state."
+    },
+    {
+      "id": "pykka",
+      "name": "Panchayat Yuva Krida aur Khel Abhiyan (PYKKA)",
+      "description": "A government initiative aimed at developing basic sports infrastructure and organizing youth sports competitions at the village and block panchayat levels to identify rural sporting talent."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+services:
+  # FastAPI backend service
+  - type: web
+    name: guide-my-way-backend
+    env: python
+    buildCommand: "pip install -r backend/requirements.txt"
+    startCommand: "uvicorn backend.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: FRONTEND_URL
+        value: https://guide-my-way.onrender.com # Change this to your actual frontend Render URL after creation
+      - key: PYTHON_VERSION
+        value: 3.11.0
+
+  # React frontend static site
+  - type: static
+    name: guide-my-way-frontend
+    env: static
+    buildCommand: "cd frontend && npm install && npm run build"
+    publishPath: "frontend/dist"
+    envVars:
+      - key: VITE_API_URL
+        value: https://guide-my-way-backend.onrender.com # Change this to your actual backend Render URL after creation
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

@@ -1,0 +1,90 @@
+{
+  "pathways": [
+    {
+      "id": "nda",
+      "scheme": "NDA (National Defence Academy)",
+      "eligibility": "12th Pass with Physics, Chemistry & Mathematics (for Army, 12th pass in any stream is acceptable). Age: 16.5 - 19.5 years.",
+      "selectionProcess": "UPSC Written Exam -> 5-Day SSB Interview -> Medical Examination",
+      "training": "3 Years at NDA Khadakwasla (B.A/B.Sc/B.Tech degree) + 1 Year specialized training at IMA (Army), INA (Navy), or AFA (Air Force)",
+      "rank": "Lieutenant (Army) / Sub Lieutenant (Navy) / Flying Officer (Air Force)"
+    },
+    {
+      "id": "cds",
+      "scheme": "CDS (Combined Defence Services)",
+      "eligibility": "Graduation (IMA/OTA: Any degree; INA: Engineering degree; AFA: Degree with Physics & Math at 12th or Engineering). Age: 19 - 25 years.",
+      "selectionProcess": "UPSC Written Exam -> 5-Day SSB Interview -> Medical Examination",
+      "training": "IMA Dehradun (1.5 Years), INA Ezhimala (approx. 1 Year), AFA Dundigal (1.5 Years), OTA Chennai (49 Weeks)",
+      "rank": "Lieutenant (Army) / Sub Lieutenant (Navy) / Flying Officer (Air Force)"
+    },
+    {
+      "id": "afcat",
+      "scheme": "AFCAT (Air Force Common Admission Test)",
+      "eligibility": "Graduation with minimum 60% marks and Physics & Math at 12th level. Age: 20 - 24 years (Flying Branch), 20 - 26 years (Ground Duty).",
+      "selectionProcess": "AFCAT Written Exam (plus EKT for Technical Branch) -> Air Force Selection Board (AFSB) Interview -> Medicals",
+      "training": "74 Weeks for Flying & Technical branches, 52 Weeks for Non-Technical branches at Air Force Academy Dundigal",
+      "rank": "Flying Officer"
+    },
+    {
+      "id": "inet",
+      "scheme": "INET (Indian Navy Entrance Test)",
+      "eligibility": "B.E/B.Tech degree with minimum 60% marks from a recognized university. Age: 19 - 24 years.",
+      "selectionProcess": "INET Written Exam -> Naval Service Selection Board (NSB) Interview -> Medicals",
+      "training": "Sub Lieutenant course at Indian Naval Academy Ezhimala",
+      "rank": "Sub Lieutenant"
+    },
+    {
+      "id": "tes",
+      "scheme": "TES (Technical Entry Scheme - Army)",
+      "eligibility": "10+2 Passed with Physics, Chemistry & Mathematics with minimum 60% aggregate. Must clear JEE Main. Age: 16.5 - 19.5 years.",
+      "selectionProcess": "Shortlisting based on JEE Main Rank -> 5-Day SSB Interview -> Medicals",
+      "training": "5 Years total (1 Year Basic Military Training at OTA Gaya + 4 Years Technical Training at Cadets Training Wings)",
+      "rank": "Lieutenant"
+    },
+    {
+      "id": "ssc_tech",
+      "scheme": "SSC Tech (Short Service Commission Technical)",
+      "eligibility": "Engineering degree (B.E/B.Tech) final year or passed in relevant streams. No written exam. Age: 20 - 27 years.",
+      "selectionProcess": "Shortlisting based on Engineering aggregate marks -> Direct SSB Interview -> Medicals",
+      "training": "49 Weeks at Officers Training Academy (OTA) Chennai",
+      "rank": "Lieutenant"
+    },
+    {
+      "id": "ta",
+      "scheme": "TA (Territorial Army)",
+      "eligibility": "Graduation. Must be gainfully employed in a professional role/self-employed. Age: 18 - 42 years.",
+      "selectionProcess": "Civil Services Written Exam (for TA) -> Preliminary Interview Board (PIB) -> SSB Interview -> Medical Board",
+      "training": "1 Month Basic Training in first year, 2 months Annual Training Camp in subsequent years",
+      "rank": "Lieutenant (part-time/active during emergencies)"
+    },
+    {
+      "id": "capf",
+      "scheme": "CAPF (Central Armed Police Forces - Assistant Commandant)",
+      "eligibility": "Graduation in any discipline. Age: 20 - 25 years.",
+      "selectionProcess": "UPSC Written Exam -> Physical Efficiency Test (PET) & Medicals -> UPSC Personality Test/Interview",
+      "training": "52 Weeks basic training at respective force academies (BSF, CRPF, CISF, ITBP, SSB)",
+      "rank": "Assistant Commandant (equivalent to Captain in Army / DSP in Police)"
+    }
+  ],
+  "ssbProcess": {
+    "day1": {
+      "title": "Stage I: Screening",
+      "details": "Includes the Officer Intelligence Rating (OIR) test (verbal and non-verbal reasoning sheets) and the Picture Perception & Discussion Test (PPDT). Candidates write a story based on a hazy picture, narrate it individually, and discuss it in a group to reach a consensus story. Results are declared on the same day, and screened-out candidates return home."
+    },
+    "day2": {
+      "title": "Stage II: Psychological Testing",
+      "details": "Conducted by a Psychologist in a classroom setting. It includes the Thematic Apperception Test (TAT) (writing stories for 11 pictures + 1 blank slide), Word Association Test (WAT) (writing immediate thoughts for 60 words shown), Situation Reaction Test (SRT) (writing reactions to 60 real-life crisis situations), and Self-Description Test (SDT) (writing opinions of parents, teachers, friends, and self)."
+    },
+    "day3": {
+      "title": "Stage II: Group Testing Officer (GTO) Tasks - Part 1",
+      "details": "Outdoor tasks testing team skills and leadership under stress. Includes Group Discussions (GD) on social/current issues, Group Planning Exercise (GPE) (finding a logical solution to a multi-crisis scenario map), Progressive Group Task (PGT) (crossing obstacles using ropes, planks, and structures as a team), Half Group Task (HGT), and Group Obstacle Race (Snake Race)."
+    },
+    "day4": {
+      "title": "Stage II: GTO Tasks - Part 2 & Personal Interview",
+      "details": "Includes the Lecturette (speaking on a selected topic for 3 minutes), Individual Obstacles (running through 10 athletic obstacles), Command Task (leading two subordinates to cross an obstacle), and Final Group Task. Concurrently, candidates undergo a 45-60 minute Personal Interview with the President/Deputy President of the Board regarding career, family, hobbies, and general knowledge."
+    },
+    "day5": {
+      "title": "Stage II: Conference & Results",
+      "details": "All assessors (President, Psychologist, GTO, Interviewing Officer) sit in a uniform conference. The candidate is called in briefly for general feedback questions. The assessors pool their findings to make a final recommendation. The final list of recommended candidates is announced immediately, and they stay back for medical evaluation."
+    }
+  }
+}

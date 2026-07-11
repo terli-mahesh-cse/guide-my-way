@@ -1,0 +1,142 @@
+[
+  {
+    "id": "civil",
+    "branch": "Civil Engineering",
+    "careerRoles": ["Junior Civil Engineer", "Site Supervisor", "Draftsman", "Surveyor", "Quantity Estimator"],
+    "higherStudy": ["B.Tech/B.E in Civil Engineering (Lateral Entry to 2nd Year)", "Advanced Diploma in Construction Management"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "mechanical",
+    "branch": "Mechanical Engineering",
+    "careerRoles": ["Junior Mechanical Engineer", "Production Supervisor", "Maintenance Technician", "CAD Draftsman", "Quality Inspector"],
+    "higherStudy": ["B.Tech/B.E in Mechanical Engineering (Lateral Entry)", "Advanced Diploma in CAD/CAM"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "electrical",
+    "branch": "Electrical Engineering",
+    "careerRoles": ["Electrical Supervisor", "Junior Electrical Engineer", "Substation Operator", "Technical Assistant", "Electrical Inspector"],
+    "higherStudy": ["B.Tech/B.E in Electrical Engineering (Lateral Entry)", "Certification in Power Systems / Industrial Automation"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "ece",
+    "branch": "Electronics & Communication Engineering (ECE)",
+    "careerRoles": ["Service Engineer", "Telecom Technician", "Embedded Systems Assistant", "Junior Network Engineer", "Quality Control Analyst"],
+    "higherStudy": ["B.Tech/B.E in ECE or EEE (Lateral Entry)", "Embedded Systems / VLSI Certifications"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "eee",
+    "branch": "Electrical & Electronics Engineering (EEE)",
+    "careerRoles": ["Power Grid Technician", "Control Systems Supervisor", "Maintenance Engineer", "Junior Engineer (Testing)"],
+    "higherStudy": ["B.Tech/B.E in EEE (Lateral Entry)", "Post-Diploma in Industrial Automation"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "cse",
+    "branch": "Computer Science & Engineering (CSE)",
+    "careerRoles": ["Junior Software Developer", "Web Designer", "System Administrator", "Database Assistant", "Technical Support Representative"],
+    "higherStudy": ["B.Tech/B.E in Computer Science/IT (Lateral Entry)", "Full Stack / Cloud Computing Certifications"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "it",
+    "branch": "Information Technology (IT)",
+    "careerRoles": ["Network Administrator Assistant", "Helpdesk Technical Lead", "IT Support Specialist", "Junior Web Developer"],
+    "higherStudy": ["B.Tech/B.E in Information Technology/CSE (Lateral Entry)", "Cyber Security / Network Certifications (CCNA)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "automobile",
+    "branch": "Automobile Engineering",
+    "careerRoles": ["Automobile Service Advisor", "Garage Supervisor", "Vehicle Inspector", "Junior Design Engineer", "Auto Parts Specialist"],
+    "higherStudy": ["B.Tech/B.E in Automobile/Mechanical Engineering (Lateral Entry)", "Advanced Diploma in EV Technology"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "chemical",
+    "branch": "Chemical Engineering",
+    "careerRoles": ["Process Operator", "Chemical Plant Supervisor", "Laboratory Technician", "Safety Inspector", "Quality Control Assistant"],
+    "higherStudy": ["B.Tech/B.E in Chemical Engineering / Petroleum Engineering (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "textile",
+    "branch": "Textile Engineering",
+    "careerRoles": ["Weaving Supervisor", "Textile Designer Assistant", "Dyeing Supervisor", "Quality Controller", "Spinning Assistant"],
+    "higherStudy": ["B.Tech/B.E in Textile Engineering / Fashion Technology (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "mining",
+    "branch": "Mining Engineering",
+    "careerRoles": ["Mine Surveyor", "Junior Mining Engineer", "Mine Safety Inspector", "Drilling Supervisor", "Ventilation Officer"],
+    "higherStudy": ["B.Tech/B.E in Mining Engineering (Lateral Entry)", "First Class Mine Manager Certification"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "metallurgical",
+    "branch": "Metallurgical Engineering",
+    "careerRoles": ["Metallurgical Lab Technician", "Furnace Supervisor", "Quality Inspector (Metal Testing)", "Welding Inspector", "Assistant Metallurgist"],
+    "higherStudy": ["B.Tech/B.E in Metallurgical / Materials Engineering (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "agricultural",
+    "branch": "Agricultural Engineering",
+    "careerRoles": ["Farm Machinery Supervisor", "Soil Conservation Assistant", "Irrigation Planner", "Agricultural Surveyor"],
+    "higherStudy": ["B.Tech/B.E in Agricultural Engineering (Lateral Entry)", "B.Sc in Agriculture"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "petroleum",
+    "branch": "Petroleum Engineering",
+    "careerRoles": ["Rig Supervisor", "Drilling Assistant", "Reservoir Technician", "Petroleum Lab Assistant", "Safety Supervisor"],
+    "higherStudy": ["B.Tech/B.E in Petroleum / Chemical Engineering (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "aeronautical",
+    "branch": "Aeronautical Engineering",
+    "careerRoles": ["Aircraft Maintenance Assistant", "Aerodynamic Analyst Assistant", "Junior Flight Safety Inspector", "Technical Assistant"],
+    "higherStudy": ["B.Tech/B.E in Aeronautical / Aerospace Engineering (Lateral Entry)", "AME License Training"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "marine",
+    "branch": "Marine Engineering",
+    "careerRoles": ["Junior Marine Engineer", "Shipyard Supervisor", "Port Maintenance Supervisor", "Marine Design Draftsman"],
+    "higherStudy": ["B.Tech/B.E in Marine Engineering (Lateral Entry)", "Merchant Navy Competency Certifications"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "instrumentation",
+    "branch": "Instrumentation & Control Engineering",
+    "careerRoles": ["Instrumentation Technician", "Calibration Specialist", "PLC Programmer Assistant", "Control Room Operator"],
+    "higherStudy": ["B.Tech/B.E in Instrumentation / Electrical Engineering (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "biotechnology",
+    "branch": "Biotechnology Engineering",
+    "careerRoles": ["Bio-lab Technician", "Fermentation Supervisor", "Quality Assurance Assistant", "Research Assistant (Biotech)"],
+    "higherStudy": ["B.Tech/B.E in Biotechnology (Lateral Entry)", "B.Sc in Biotechnology"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "environmental",
+    "branch": "Environmental Engineering",
+    "careerRoles": ["Pollution Control Monitor", "EHS Assistant", "Water Treatment Plant Supervisor", "Environmental Auditor Assistant"],
+    "higherStudy": ["B.Tech/B.E in Environmental / Civil Engineering (Lateral Entry)"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "ceramic",
+    "branch": "Ceramic Technology",
+    "careerRoles": ["Kiln Supervisor", "Ceramic Lab Analyst", "Refractory Engineer Assistant", "Raw Material Quality Checker"],
+    "higherStudy": ["B.Tech/B.E in Ceramic Technology / Materials Science (Lateral Entry)"],
+    "duration": "3 Years"
+  }
+]

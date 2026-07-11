@@ -1,0 +1,84 @@
+[
+  {
+    "id": "stage_1",
+    "stage": "Class 10 Transition",
+    "ageRange": "15 - 16 Years",
+    "milestones": [
+      "Board Examinations Completed",
+      "Selection of Intermediate Stream (MPC, BiPC, CEC, HEC, etc.)",
+      "Option to join Engineering/Non-Engineering Diplomas",
+      "Option to enter vocational trade training (ITI)"
+    ],
+    "actions": [
+      "Identify core interests and subjects of strength",
+      "Research the pathways offered by each stream or diploma",
+      "Engage in career guidance counseling",
+      "Assess requirements for preferred colleges or competitive exams early"
+    ]
+  },
+  {
+    "id": "stage_2",
+    "stage": "Class 11 & 12 (Intermediate)",
+    "ageRange": "16 - 18 Years",
+    "milestones": [
+      "Board exams for 1st & 2nd Year Intermediate",
+      "Preparation and appearance in master entrance exams (JEE, NEET, CLAT, etc.)",
+      "Earning basic diplomas or finishing early ITI trades"
+    ],
+    "actions": [
+      "Focus heavily on stream core subjects",
+      "Attend mock tests and coaching classes if aiming for top colleges",
+      "Learn soft skills, basic computing, and communication",
+      "Apply for undergraduate programs and track application deadlines"
+    ]
+  },
+  {
+    "id": "stage_3",
+    "stage": "Undergraduate / Higher Degree",
+    "ageRange": "18 - 22/23 Years",
+    "milestones": [
+      "Admission to B.Tech, MBBS, B.Com, BA, LLB, B.Des, etc.",
+      "Graduation ceremony and first college degree",
+      "Lateral entry validation for diploma holders (entering 2nd year B.Tech)"
+    ],
+    "actions": [
+      "Deep dive into specialized fields of study",
+      "Participate in internships, technical workshops, and seminars",
+      "Build a professional resume and networking profile (e.g., LinkedIn)",
+      "Determine path: Campus placements, GATE/CAT/GRE/UPSC exams, or entrepreneurship"
+    ]
+  },
+  {
+    "id": "stage_4",
+    "stage": "Early Career / Post-Graduation",
+    "ageRange": "22 - 28/30 Years",
+    "milestones": [
+      "First corporate or government job placement",
+      "Master's Degree (M.Tech, MBA, MD, MS, LLM, MA) completion",
+      "Clearing defense courses (NDA/CDS training) to serve as a commissioned officer"
+    ],
+    "actions": [
+      "Adapt to professional workplace environments and team dynamics",
+      "Pursue continuous learning and professional certifications",
+      "Stabilize financial planning and savings early",
+      "Acquire leadership, team management, and critical problem-solving skills"
+    ]
+  },
+  {
+    "id": "stage_5",
+    "stage": "Career Peaks",
+    "ageRange": "30+ Years",
+    "milestones": [
+      "Transition into Senior Management (VP, Director, CEO, CTO, Partner)",
+      "Starting your own venture (Founder, Entrepreneur)",
+      "Serving in senior military command posts or high judicial chairs (Judge, Senior Advocate)",
+      "Recognitions, awards, and contributing back to the industry"
+    ],
+    "actions": [
+      "Drive long-term strategic decisions in organizations",
+      "Mentor the younger generation of students and professionals",
+      "Innovate and lead industry-wide changes",
+      "Balance career success with personal wellness and philanthropy"
+    ]
+  }
+]

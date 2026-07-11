@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ba_history",
+    "type": "specialization",
+    "name": "BA History",
+    "careerPaths": ["Archeologist", "Historian", "Museum Curator", "Archivist", "Civil Services Expert"]
+  },
+  {
+    "id": "ba_pol_science",
+    "type": "specialization",
+    "name": "BA Political Science",
+    "careerPaths": ["Political Analyst", "Legislative Assistant", "Policy Researcher", "Public Relations Specialist", "Diplomat"]
+  },
+  {
+    "id": "ba_economics",
+    "type": "specialization",
+    "name": "BA Economics",
+    "careerPaths": ["Financial Analyst", "Economic Consultant", "Data Analyst", "Market Research Analyst", "Actuary Assistant"]
+  },
+  {
+    "id": "ba_english",
+    "type": "specialization",
+    "name": "BA English Literature",
+    "careerPaths": ["Content Writer", "Editor", "Copywriter", "Journalist", "PR Officer", "Teacher"]
+  },
+  {
+    "id": "ba_sociology",
+    "type": "specialization",
+    "name": "BA Sociology",
+    "careerPaths": ["Social Researcher", "HR Manager", "Community Organizer", "Family Counselor", "NGO Coordinator"]
+  },
+  {
+    "id": "ba_psychology",
+    "type": "specialization",
+    "name": "BA Psychology",
+    "careerPaths": ["Counselor", "Clinical Assistant", "HR Specialist", "School Psychologist Assistant", "Rehabilitation Specialist"]
+  },
+  {
+    "id": "ba_geography",
+    "type": "specialization",
+    "name": "BA Geography",
+    "careerPaths": ["Cartographer", "GIS Specialist", "Town Planner", "Environmental Consultant", "Demographer"]
+  },
+  {
+    "id": "ba_philosophy",
+    "type": "specialization",
+    "name": "BA Philosophy",
+    "careerPaths": ["Ethics Advisor", "Technical Writer", "Mediator", "Academic Researcher", "Policy Analyst"]
+  },
+  {
+    "id": "ba_archaeology",
+    "type": "specialization",
+    "name": "BA Archaeology",
+    "careerPaths": ["Field Archaeologist", "Heritage Conservator", "Documentation Officer", "Cultural Resource Manager"]
+  },
+  {
+    "id": "ba_pub_admin",
+    "type": "specialization",
+    "name": "BA Public Administration",
+    "careerPaths": ["Administrative Officer", "Policy Advisor", "Civil Servant", "Social Security Officer", "Municipal Manager"]
+  },
+  {
+    "id": "ba_journalism",
+    "type": "specialization",
+    "name": "BA Journalism",
+    "careerPaths": ["News Reporter", "Sub-Editor", "Digital Content Manager", "Media Planner", "Correspondent"]
+  },
+  {
+    "id": "ba_fine_arts",
+    "type": "specialization",
+    "name": "BA Fine Arts",
+    "careerPaths": ["Fine Artist", "Art Teacher", "Illustrator", "Art Director Assistant", "Exhibition Designer"]
+  },
+  {
+    "id": "ba_social_work",
+    "type": "specialization",
+    "name": "BA Social Work",
+    "careerPaths": ["Social Worker", "Child Welfare Specialist", "NGO Program Officer", "Community Health Worker"]
+  },
+  {
+    "id": "ba_linguistics",
+    "type": "specialization",
+    "name": "BA Linguistics",
+    "careerPaths": ["Translator", "Lexicographer", "Speech Analyst Assistant", "Language Trainer", "Computational Linguist"]
+  },
+  {
+    "id": "ba_anthropology",
+    "type": "specialization",
+    "name": "BA Anthropology",
+    "careerPaths": ["Cultural Researcher", "Museum Assistant", "Social Policy Advisor", "Corporate Anthropologist"]
+  },
+  {
+    "id": "llb",
+    "type": "degree",
+    "name": "LLB (Bachelor of Laws)",
+    "fullForm": "Bachelor of Legislative Law",
+    "duration": "3 Years (Post-Graduation)",
+    "careers": ["Advocate", "Corporate Legal Advisor", "Legal Consultant", "Public Prosecutor", "Judicial Officer"]
+  },
+  {
+    "id": "ba_llb",
+    "type": "degree",
+    "name": "BA LLB (Integrated Law)",
+    "fullForm": "Bachelor of Arts & Bachelor of Laws (Integrated)",
+    "duration": "5 Years (Post-12th)",
+    "careers": ["Corporate Lawyer", "Legal Analyst", "Solicitor", "Litigator", "Legal Journalist"]
+  },
+  {
+    "id": "bjmc",
+    "type": "degree",
+    "name": "BJMC (Mass Communication)",
+    "fullForm": "Bachelor of Journalism and Mass Communication",
+    "duration": "3 Years",
+    "careers": ["News Anchor", "Radio Jockey (RJ)", "PR Manager", "Event Manager", "Digital Content Producer"]
+  },
+  {
+    "id": "bfa",
+    "type": "degree",
+    "name": "BFA (Bachelor of Fine Arts)",
+    "fullForm": "Bachelor of Fine Arts",
+    "duration": "4 Years",
+    "careers": ["Art Director", "Concept Artist", "Graphic Designer", "Sculptor", "Animator", "Art Restorer"]
+  },
+  {
+    "id": "bdes",
+    "type": "degree",
+    "name": "B.Des (Bachelor of Design)",
+    "fullForm": "Bachelor of Design",
+    "duration": "4 Years",
+    "careers": ["UI/UX Designer", "Product Designer", "Fashion Designer", "Industrial Designer", "Interior & Spatial Designer"]
+  },
+  {
+    "id": "bsw",
+    "type": "degree",
+    "name": "BSW (Bachelor of Social Work)",
+    "fullForm": "Bachelor of Social Work",
+    "duration": "3 Years",
+    "careers": ["Social Worker", "NGO Manager", "CSR Specialist", "Community Relations Officer", "Rehabilitation Officer"]
+  },
+  {
+    "id": "bvoc",
+    "type": "degree",
+    "name": "B.Voc (Bachelor of Vocation)",
+    "fullForm": "Bachelor of Vocation",
+    "duration": "3 Years",
+    "careers": ["Vocational Trainer", "Skill Development Officer", "Retail Manager", "Hospitality Executive", "Logistics Analyst"]
+  }
+]

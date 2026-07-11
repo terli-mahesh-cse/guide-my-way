@@ -1,0 +1,189 @@
+.exams-toolbar {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 1.5rem !important;
+  margin-bottom: 2rem;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.search-box-wrapper {
+  position: relative;
+  flex-grow: 1;
+  max-width: 320px;
+}
+
+.search-box-wrapper .search-icon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+}
+
+.toolbar-search {
+  padding-left: 2.75rem !important;
+  height: 44px;
+  font-size: 0.9rem;
+}
+
+.filters-grid {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.filter-select-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  min-width: 140px;
+}
+
+.filter-select-wrapper label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+}
+
+.filter-select-wrapper select {
+  height: 44px;
+  background: rgba(17, 24, 39, 0.8);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: #ffffff;
+  padding: 0 1rem;
+  outline: none;
+  font-family: var(--font-primary);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filter-select-wrapper select:focus {
+  border-color: var(--color-primary);
+}
+
+/* Custom Table Layout using CSS Grid */
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  background: var(--bg-secondary);
+}
+
+.custom-table {
+  min-width: 900px;
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-table-header {
+  display: grid;
+  grid-template-columns: 1.5fr 1.2fr 2fr 1fr 1fr;
+  gap: 1.5rem;
+  padding: 1.25rem 1.5rem;
+  background: rgba(255, 255, 255, 0.02);
+  border-bottom: 2px solid var(--border-color);
+}
+
+.custom-table-row {
+  display: grid;
+  grid-template-columns: 1.5fr 1.2fr 2fr 1fr 1fr;
+  gap: 1.5rem;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  align-items: center;
+  transition: background 0.2s ease;
+}
+
+.custom-table-row:hover {
+  background: rgba(59, 130, 246, 0.04);
+}
+
+.custom-table-row:last-child {
+  border-bottom: none;
+}
+
+.table-col {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.custom-table-header .table-col {
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  user-select: none;
+}
+
+.custom-table-header .table-col:hover {
+  color: #ffffff;
+}
+
+.custom-table-header .col-scope {
+  cursor: default;
+}
+
+.custom-table-header .col-scope:hover {
+  color: var(--text-muted);
+}
+
+.text-white { color: #ffffff; }
+.text-secondary { color: var(--text-secondary); }
+.text-muted { color: var(--text-muted); }
+.text-sm { font-size: 0.85rem; }
+.text-gold { color: var(--color-accent); }
+.text-blue { color: var(--color-primary); }
+.font-bold { font-weight: 600; }
+.font-medium { font-weight: 500; }
+
+.table-no-results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 0;
+  color: var(--text-muted);
+  gap: 1rem;
+}
+
+.shimmer-table {
+  width: 100%;
+}
+
+/* Responsive Table Adjustments */
+@media (max-width: 768px) {
+  .exams-toolbar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .search-box-wrapper {
+    max-width: 100%;
+  }
+  
+  .filters-grid {
+    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    width: 100%;
+  }
+  
+  .filter-select-wrapper {
+    min-width: unset;
+  }
+}
+
+@media (max-width: 480px) {
+  .filters-grid {
+    grid-template-columns: 1fr;
+  }
+}

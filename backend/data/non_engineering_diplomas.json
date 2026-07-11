@@ -1,0 +1,107 @@
+[
+  {
+    "id": "dpharm",
+    "diploma": "Diploma in Pharmacy (D.Pharm)",
+    "careerRoles": ["Community Pharmacist", "Hospital Pharmacist", "Medical Representative", "Medical Store Manager", "Manufacturing Assistant"],
+    "higherStudies": ["Bachelor of Pharmacy (B.Pharm - Lateral Entry to 2nd Year)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "nursing",
+    "diploma": "GNM / ANM Nursing (General Nursing & Midwifery / Auxiliary Nurse Midwife)",
+    "careerRoles": ["Staff Nurse", "Community Health Nurse", "Home Care Nurse", "Health Visitor", "Clinic Assistant"],
+    "higherStudies": ["Post Basic B.Sc Nursing"],
+    "duration": "2 to 3 Years"
+  },
+  {
+    "id": "hotel_management",
+    "diploma": "Diploma in Hotel Management",
+    "careerRoles": ["Front Office Assistant", "Housekeeping Supervisor", "Food & Beverage Assistant", "Guest Relations Executive"],
+    "higherStudies": ["Bachelor of Hotel Management (BHM)", "B.Sc in Hospitality & Hotel Administration"],
+    "duration": "3 Years"
+  },
+  {
+    "id": "fashion_design",
+    "diploma": "Diploma in Fashion Design",
+    "careerRoles": ["Assistant Fashion Designer", "Fashion Stylist", "Visual Merchandiser", "Pattern Maker", "Boutique Manager"],
+    "higherStudies": ["B.Des in Fashion Design", "B.Sc in Fashion & Apparel Design"],
+    "duration": "2 to 3 Years"
+  },
+  {
+    "id": "interior_design",
+    "diploma": "Diploma in Interior Design",
+    "careerRoles": ["Interior Design Assistant", "3D Visualizer", "Space Planner", "Furniture Consultant", "Draftsman"],
+    "higherStudies": ["B.Des in Interior Design", "B.Sc in Interior Design"],
+    "duration": "2 to 3 Years"
+  },
+  {
+    "id": "travel_tourism",
+    "diploma": "Diploma in Travel & Tourism",
+    "careerRoles": ["Tour Operator", "Travel Consultant", "Ticketing Agent", "Tour Guide", "Ground Handling Staff"],
+    "higherStudies": ["Bachelor of Tourism Studies (BTS)", "MBA in Tourism & Travel Management"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "dmlt",
+    "diploma": "Diploma in Medical Lab Technology (DMLT)",
+    "careerRoles": ["Lab Technician", "Pathology Assistant", "Blood Bank Technician", "Lab Coordinator"],
+    "higherStudies": ["B.Sc in Medical Laboratory Technology (BMLT)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "radiology",
+    "diploma": "Diploma in Radiology & Medical Imaging",
+    "careerRoles": ["X-Ray Technician", "CT Scan Assistant", "MRI Technician Assistant", "Radiology Lab Assistant"],
+    "higherStudies": ["B.Sc in Medical Imaging Technology / Radiology"],
+    "duration": "2 to 3 Years"
+  },
+  {
+    "id": "dental_hygiene",
+    "diploma": "Diploma in Dental Hygiene",
+    "careerRoles": ["Dental Hygienist", "Dental Assistant", "Dental Chairside Assistant", "Dental Product Sales Representive"],
+    "higherStudies": ["Bachelor of Dental Surgery (BDS - through separate entrance)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "agriculture",
+    "diploma": "Diploma in Agriculture",
+    "careerRoles": ["Agricultural Officer Assistant", "Seed Technologist", "Fertilizer Sales Manager", "Farm Supervisor"],
+    "higherStudies": ["B.Sc in Agriculture (Lateral Entry or Entrance)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "library_science",
+    "diploma": "Diploma in Library & Information Science",
+    "careerRoles": ["Library Assistant", "Information Assistant", "Cataloger", "Semi-Professional Assistant"],
+    "higherStudies": ["Bachelor of Library & Information Science (B.Lib.I.Sc)"],
+    "duration": "1 to 2 Years"
+  },
+  {
+    "id": "ded",
+    "diploma": "Diploma in Education (D.Ed / D.El.Ed)",
+    "careerRoles": ["Primary School Teacher (Government & Private)", "Home Tutor", "Education Counselor Assistant"],
+    "higherStudies": ["Bachelor of Education (B.Ed)", "Bachelor of Elementary Education (B.El.Ed)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "physical_education",
+    "diploma": "Diploma in Physical Education (D.P.Ed)",
+    "careerRoles": ["Physical Training Instructor (PTI)", "Sports Coach Assistant", "Fitness Instructor", "Recreation Manager"],
+    "higherStudies": ["Bachelor of Physical Education (B.P.Ed)"],
+    "duration": "2 Years"
+  },
+  {
+    "id": "beauty_wellness",
+    "diploma": "Diploma in Beauty & Wellness",
+    "careerRoles": ["Beauty Therapist", "Hair Stylist", "Makeup Artist", "Spa Manager Assistant", "Salon Consultant"],
+    "higherStudies": ["Advanced Diploma in Cosmetology", "B.Voc in Beauty & Wellness"],
+    "duration": "1 Year"
+  },
+  {
+    "id": "catering_technology",
+    "diploma": "Diploma in Catering Technology",
+    "careerRoles": ["Assistant Chef", "Catering Manager Assistant", "Food Inspector Assistant", "Kitchen Supervisor"],
+    "higherStudies": ["Bachelor of Hotel Management & Catering Technology (BHMCT)"],
+    "duration": "3 Years"
+  }
+]

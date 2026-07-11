@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mpc",
+    "name": "MPC (Mathematics, Physics, Chemistry)",
+    "coreSubjects": ["Mathematics", "Physics", "Chemistry"],
+    "nextDegreeOptions": ["Bachelor of Technology (B.Tech)", "Bachelor of Engineering (B.E)", "Bachelor of Science (B.Sc) in Physics/Maths/CS", "Bachelor of Architecture (B.Arch)", "Bachelor of Computer Applications (BCA)", "Bachelor of Business Administration (BBA)"],
+    "keyEntranceExams": ["JEE Main", "JEE Advanced", "BITSAT", "State EAMCETs", "VITEEE"]
+  },
+  {
+    "id": "bipc",
+    "name": "BiPC (Biology, Physics, Chemistry)",
+    "coreSubjects": ["Biology (Botany & Zoology)", "Physics", "Chemistry"],
+    "nextDegreeOptions": ["Bachelor of Medicine & Bachelor of Surgery (MBBS)", "Bachelor of Dental Surgery (BDS)", "Bachelor of Pharmacy (B.Pharm)", "B.Sc in Agriculture", "B.Sc in Biotechnology/Microbiology", "Bachelor of Physiotherapy (BPT)", "Bachelor of Veterinary Science (BVSc)"],
+    "keyEntranceExams": ["NEET UG", "ICAR AIEEA", "State EAMCET (BiPC Stream)"]
+  },
+  {
+    "id": "cec",
+    "name": "CEC (Commerce, Economics, Civics)",
+    "coreSubjects": ["Commerce", "Economics", "Civics"],
+    "nextDegreeOptions": ["Bachelor of Commerce (B.Com - General/Computers/Honours)", "Bachelor of Business Administration (BBA)", "Chartered Accountancy (CA)", "Company Secretary (CS)", "Bachelor of Law (Integrated BA LLB)", "Bachelor of Hotel Management (BHM)"],
+    "keyEntranceExams": ["CA Foundation", "CLAT", "LSAT India", "IPMAT", "CUET"]
+  },
+  {
+    "id": "hec",
+    "name": "HEC (History, Economics, Civics)",
+    "coreSubjects": ["History", "Economics", "Civics"],
+    "nextDegreeOptions": ["Bachelor of Arts (BA) in History/Economics/Political Science", "Bachelor of Law (Integrated BA LLB)", "Bachelor of Journalism & Mass Communication (BJMC)", "Bachelor of Social Work (BSW)", "Bachelor of Fine Arts (BFA)"],
+    "keyEntranceExams": ["CUET", "CLAT", "State Law CETs"]
+  },
+  {
+    "id": "mec",
+    "name": "MEC (Mathematics, Economics, Commerce)",
+    "coreSubjects": ["Mathematics", "Economics", "Commerce"],
+    "nextDegreeOptions": ["B.Com (Honours)", "Bachelor of Business Administration (BBA)", "B.Sc in Economics / Actuarial Science", "Chartered Accountancy (CA)", "Bachelor of Computer Applications (BCA)"],
+    "keyEntranceExams": ["CA Foundation", "IPMAT", "CUET", "CLAT"]
+  },
+  {
+    "id": "mbipc",
+    "name": "MBiPC (Mathematics, Biology, Physics, Chemistry)",
+    "coreSubjects": ["Mathematics", "Biology", "Physics", "Chemistry"],
+    "nextDegreeOptions": ["B.Tech in Biotechnology", "B.Tech in Bio-Engineering", "B.Sc in Food Technology", "B.Tech in Agricultural Engineering", "MBBS / BDS", "B.Tech / B.E (Engineering)"],
+    "keyEntranceExams": ["JEE Main", "NEET UG", "BITSAT", "ICAR AIEEA", "State EAMCETs"]
+  }
+]
